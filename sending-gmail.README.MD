@@ -1,5 +1,4 @@
 # Send Gmail from Linux
-
 Install msmtp
 ```
 sudo dnf install msmtp -y
